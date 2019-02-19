@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">HiAi-OCR</string>
+    <string name="takePhoto">拍照</string>
+    <string name="chosePicture">选择照片</string>
+</resources>
